@@ -1,0 +1,29 @@
+{
+  "1399278274852556851": {
+    "ticket_number": 2,
+    "user_id": 1063813791994884147,
+    "user_name": "domzeeeeeeee",
+    "channel_id": 1399278274852556851,
+    "status": "closed",
+    "created_at": "2025-07-28T06:32:18.233878",
+    "reason": "Help",
+    "added_users": [
+      1355565203831656660
+    ],
+    "closed_at": "2025-07-28T06:33:41.531990",
+    "closed_by": "domzeeeeeeee",
+    "transcript_file": "data/transcripts/transcript-ticket-\ud835\uddd7\ud835\udde2\ud835\udde0\ud835\udded\ud835\udded\u1d1c\u1d04\u0262\u1d0f\u1d05-20250728_063340.html",
+    "reopened_at": "2025-07-28T06:33:58.360452",
+    "reopened_by": 1063813791994884147
+  },
+  "1403940976766226472": {
+    "ticket_number": 4,
+    "user_id": 1063813791994884147,
+    "user_name": "domzeeeeeeee",
+    "channel_id": 1403940976766226472,
+    "status": "open",
+    "created_at": "2025-08-10T03:20:12.942320",
+    "reason": "help",
+    "added_users": []
+  }
+}
